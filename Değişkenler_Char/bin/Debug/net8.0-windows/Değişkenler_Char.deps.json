@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Değişkenler_Char/1.0.0": {
+        "runtime": {
+          "Değişkenler_Char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Değişkenler_Char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
